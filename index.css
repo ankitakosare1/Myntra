@@ -1,0 +1,199 @@
+body{
+    margin: auto;
+}
+
+header{
+    height:70px;
+    /*background-color: red;*/
+    margin-left:3.5%;
+    margin-right:2%;
+    margin-top:1.5%;
+    /*display:inline-block;*/
+    
+}
+
+header img{
+    float:left;
+    height: 50px;
+}
+
+.heading {
+    float:left;
+    margin-left:1.5%;
+    margin-top:1.5%;
+    font-weight: bold;
+    color: rgb(60, 57, 57);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+sup{
+    color:rgb(243, 60, 188);
+}
+
+.headerText{
+    float:right;
+}
+
+#logo{
+    float:right;
+}
+
+#logo > img{
+    width: 30px;
+    height: 30px;
+    margin: 2;
+}
+
+.firstBlock{
+    margin-bottom:5%;
+    margin-left:2%;
+    margin-right:2%;
+    display: inline-block;
+}
+
+.firstBlockImg img{
+    width:70%;
+    height:380px;
+    float:left;
+}
+
+#brand{
+    font-size: xx-large;
+}
+
+.firstBlockText{
+    font-size: x-large;
+    width: 20%;
+    float:right;
+    margin-top:4%;
+}
+
+#explore{
+    color:gray;
+    font-size: large;
+}
+
+.secondBlock{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.secondBlockText{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tile{
+    /*border:2px solid black;*/
+    height:250px;
+    float:left;
+    width:12%;
+    margin-bottom: 5%;
+}
+
+.tile img{
+    width: 100%;
+    height:180px;
+}
+
+.tile > span{
+    text-align: center;
+    font-weight: bold;
+}
+
+.thirdBlock{
+    background-color: aliceblue;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    display: inline-block;
+}
+
+.thirdBlockText{
+    
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tile2{
+    text-align: center;
+    height:150px;
+    float:left;
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:3%;
+    margin-bottom:3%;
+}
+
+.tile2 img{
+    height:150px;
+    width:150px;
+    border-radius: 50%;
+}
+
+.tile2 figcaption{
+    font-weight: bold;
+}
+
+footer{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom:3%;
+    display: flex;
+}
+
+.onlineShopping{
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    margin-right:4%;
+}
+
+.category{
+    color:gray;
+}
+
+.customerPolicies{
+    font-size: smaller;
+    float:left;
+    margin-right: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app{
+    font-size: smaller;
+    float:left;
+    margin-right:4%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.policies{
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.social{
+    height:50px;
+    margin-bottom: 2%;
+}
+
+.policyText{
+    vertical-align: top;
+}
+
+.restcontent{
+    color:gray;
+    vertical-align: top;
+}
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hD1Xc5f/Myntra-Logo.png" alt="Myntra-Logo" border="0"></a>
+<a href="https://ibb.co/3YghKh1"><img src="https://i.ibb.co/mFfzpzJ/Myntra-first.png" alt="Myntra-first" border="0"></a>
+<a href="https://ibb.co/7p2TMFy"><img src="https://i.ibb.co/Jp5b6Pk/Adidas.webp" alt="Adidas" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LzXwrjd/facebook.png" alt="facebook" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Qv9CB67/insta.png" alt="insta" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/y5Dc46q/Twitter.jpg" alt="Twitter" border="0"></a>
+<a href="https://ibb.co/rG7p5Qq"><img src="https://i.ibb.co/d0WpkfX/youtube.png" alt="youtube" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TrgDV3Q/Google-play.png" alt="Google-play" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kgDFQGx/App-Store.png" alt="App-Store" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>geojson file viewer</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/B28nd1t/return.png" alt="return" border="0"></a>
