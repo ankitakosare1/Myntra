@@ -2,6 +2,7 @@
     <head>
         <link href="https://i.ibb.co/hD1Xc5f/Myntra-Logo.png" rel="icon">
         <link href="index.css" rel="stylesheet">
+        <script src="index.js"></script>
         <title>Myntra</title>
     </head>
     <body>
@@ -22,9 +23,13 @@
                     <img src="profile.svg">
                     <img src="heart.svg">
                     <img src="bag.svg">
+                    <button onclick="changeMode()"><img src="sun.png" id="icon"></button>
                 </div>
             </div>
         </header>
+        <div id="coupon">
+            <button onclick="closeCoupon()"><img src="coupon.jpg">&times;</button>
+        </div>
         <div class="firstBlock">
             <div class="firstBlockImg">
                 <img src="https://i.ibb.co/mFfzpzJ/Myntra-first.png">
@@ -157,6 +162,9 @@
                 <figcaption>Infant Clothes</figcaption>
             </div>
         </div>
+        <script>
+            window.onload = loadCoupon()
+        </script>
     </body>
     <footer>
         <div class="onlineShopping">

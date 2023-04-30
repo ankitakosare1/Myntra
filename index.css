@@ -1,5 +1,13 @@
 body{
     margin: auto;
+    background-color: white;
+    color:black;
+    z-index: 1;
+}
+
+.darkmode{
+    background-color: black;
+    color:white;
 }
 
 header{
@@ -43,6 +51,30 @@ sup{
     width: 30px;
     height: 30px;
     margin: 2;
+}
+
+#logo button{
+    border: none;
+}
+
+#logo button img{
+    width:30px;
+    height:30px;
+}
+
+#coupon{
+    height:300px;
+    width:600px;
+    z-index:100;
+    position:absolute;
+    margin-top:1%;
+    margin-left:30%;
+    visibility:hidden;
+}
+
+#coupon img{
+    height:100%;
+    width:100%;
 }
 
 .firstBlock{
