@@ -18,3 +18,4 @@ function closeCoupon(){
     document.getElementById('coupon').style.visibility='hidden';
     document.getElementsByTagName('body').style.opacity='1'
 }
+
